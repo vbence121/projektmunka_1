@@ -1,0 +1,12 @@
+codeblocks-17.12-setup.exe
+win-builds-1.5.0.exe
+.vscode/launch.json
+.vscode/settings.json
+.vscode/tasks.json
+proj/main.cpp
+proj/proj.cbp
+proj/proj.depend
+proj/proj.layout
+proj/bin/Debug/proj.exe
+proj/obj/Debug/main.o
+main.exe
